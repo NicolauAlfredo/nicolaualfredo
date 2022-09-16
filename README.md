@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou a aprender JavaScript
-- 😄 Pronouns: ele/dele 
 
 <!-- PARTE 1 -->
 <div align="center">
