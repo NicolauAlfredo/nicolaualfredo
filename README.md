@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o Nicolau Alfredo</h1>
-<h3 align="center">🚀 Full Stack Dev | 🎮 Gamer como CodeCrusaderX | 🎙️ Criador de Conteúdo Multitemático</h3>
+<h1 align="center">👋 Hello, I’m Nicolau Alfredo</h1>
+<h3 align="center">🚀 Full Stack Developer | 🎮 Gamer as CodeCrusaderX | 🎙️ Multi-topic Content Creator</h3>
 
 <p align="center">
   <a href="https://github.com/NicolauAlfredo">
@@ -9,24 +9,21 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 👨‍💻 Desenvolvedor com foco em **Front-End moderno (React)** e **Back-End com Node.js & Spring Boot**
-- ☕ Estudando profundamente **Java Web com Spring Boot, Hibernate, JSP e JSF**
-- 🧠 Explorando **bancos SQL e NoSQL**, além de ferramentas como Docker e sistemas Linux
-- 🎮 Também conhecido como **CodeCrusaderX** no universo dos games
-- 📹 Produzo conteúdo em **3 canais distintos no YouTube**:
+- 👨‍💻 Developer focused on **modern Front-End (React)** and **Back-End with Node.js & Spring Boot**
+- ☕ Deeply studying **Java Web with Spring Boot**
+- 🎮 Also known as **CodeCrusaderX** in the gaming world
+- 📹 Creator of content on **3 distinct YouTube channels**:
   - 🎮 **Gaming:** [CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)
-  - 💬 **Documentários & Opiniões:** [Nicolau Alfredo TV](https://www.youtube.com/@nicolaualfredoTV)
-  - 👨‍💻 **Tecnologia & Programação:** [PapaiCode](https://www.youtube.com/@papaicode)
-- 🌍 Apaixonado por educação, tecnologia e impacto digital
-- 🌐 Meu site oficial: [nicolaualfredo.com](https://nicolaualfredo.com)
-
----
+  - 💬 **Documentaries & Opinions:** [Nicolau Alfredo TV](https://www.youtube.com/@nicolaualfredoTV)
+  - 👨‍💻 **Technology & Programming:** [PapaiCode](https://www.youtube.com/@papaicode)
+- 🌍 Passionate about education, technology, and digital impact
+- 🌐 Website: [nicolaualfredo.com](https://nicolaualfredo.com)
 
 ### 🧠 Tech Stack
 
-**🖥️ Linguagens**
+**🖥️ Programming Languages**
 <div>
   <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -51,7 +48,7 @@
   <img alt="JSF" height="30" src="https://img.shields.io/badge/-JSF-007396?style=flat-square&logo=java&logoColor=white" />
 </div>
 
-**🛢️ Banco de Dados**
+**🛢️ Databases**
 <div>
   <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
@@ -59,7 +56,7 @@
   <img alt="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
-**🧰 Ferramentas & Sistemas**
+**🧰 Tools**
 <div>
   <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
@@ -69,33 +66,32 @@
 
 ---
 
-### 🎥 Meus Canais
+### 🎥 My Channels
 
-- 🎮 **CodeCrusaderX** (games): [@CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)  
-- 🧠 **PapaiCode** (tecnologia e programação): [@papaicode](https://www.youtube.com/@papaicode)  
-- 🎙️ **Nicolau Alfredo TV** (opinião/documentários): [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
+- 🎮 **CodeCrusaderX** (gaming): [@CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)  
+- 🧠 **PapaiCode** (technology and programming): [@papaicode](https://www.youtube.com/@papaicode)  
+- 🎙️ **Nicolau Alfredo TV** (opinions/documentaries): [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
 
 ---
 
-### 🌐 Redes e Canais
+### 🌐 Social & Channels
 
-**🎮 Nome Gamer:** `CodeCrusaderX`  
-**🖥️ Website:** [nicolaualfredo.com](https://nicolaualfredo.com)
+**🎮 Gamer Tag:** `CodeCrusaderX`
 
 **📺 YouTube Channels**
 - 🎮 Gaming: [@CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)
-- 📺 Opinião & Documentários: [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
-- 👨‍💻 Programação & Tech: [@papaicode](https://www.youtube.com/@papaicode)
+- 📺 Opinions & Documentaries: [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
+- 👨‍💻 Programming & Tech: [@papaicode](https://www.youtube.com/@papaicode)
 
-**🔗 Redes Sociais**
+**🔗 Social Networks**
 <p>
   <a href="https://www.linkedin.com/in/nicolaualfredo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nicolaualfredo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:b.nicolaualfredo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
