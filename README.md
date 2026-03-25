@@ -13,7 +13,7 @@
 
 - 👨‍💻 Developer focused on **modern Front-End (React)** and **Back-End with Node.js & Spring Boot**
 - ☕ Deeply studying **Java Web with Spring Boot**
-- 🎮 Also known as **CodeCrusaderX** in the gaming world
+- 🎮 Also known as **CodeG4mer** in the gaming world
 - 📹 Creator of content on **3 distinct YouTube channels**:
   - 🎮 **Gaming:** [CodeG4mer](https://www.youtube.com/@CodeG4mer)
   - 💬 **Documentaries & Opinions:** [Nicolau Alfredo TV](https://www.youtube.com/@nicolaualfredoTV)
@@ -68,7 +68,7 @@
 
 ### 🎥 My Channels
 
-- 🎮 **CodeCrusaderX** (gaming): [@CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)  
+- 🎮 **CodeG4mer** (gaming): [@CodeCrusaderX](https://www.youtube.com/@CodeG4mer)  
 - 🧠 **PapaiCode** (technology and programming): [@papaicode](https://www.youtube.com/@papaicode)  
 - 🎙️ **Nicolau Alfredo TV** (opinions/documentaries): [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
 
