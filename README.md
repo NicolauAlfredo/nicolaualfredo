@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I’m Nicolau Alfredo</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎮 Gamer as CodeCrusaderX | 🎙️ Multi-topic Content Creator</h3>
+<h3 align="center">🚀 Full Stack Developer | 🎮 Gamer as CodeG4mer | 🎙️ Multi-topic Content Creator</h3>
 
 <p align="center">
   <a href="https://github.com/NicolauAlfredo">
@@ -15,7 +15,7 @@
 - ☕ Deeply studying **Java Web with Spring Boot**
 - 🎮 Also known as **CodeCrusaderX** in the gaming world
 - 📹 Creator of content on **3 distinct YouTube channels**:
-  - 🎮 **Gaming:** [CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)
+  - 🎮 **Gaming:** [CodeG4mer](https://www.youtube.com/@CodeG4mer)
   - 💬 **Documentaries & Opinions:** [Nicolau Alfredo TV](https://www.youtube.com/@nicolaualfredoTV)
   - 👨‍💻 **Technology & Programming:** [PapaiCode](https://www.youtube.com/@papaicode)
 - 🌍 Passionate about education, technology, and digital impact
@@ -79,7 +79,7 @@
 **🎮 Gamer Tag:** `CodeCrusaderX`
 
 **📺 YouTube Channels**
-- 🎮 Gaming: [@CodeCrusaderX](https://www.youtube.com/@CodeCrusaderX)
+- 🎮 Gaming: [@CodeG4mer]([https://www.youtube.com/@CodeCrusaderX](https://www.youtube.com/@CodeG4mer))
 - 📺 Opinions & Documentaries: [@nicolaualfredoTV](https://www.youtube.com/@nicolaualfredoTV)
 - 👨‍💻 Programming & Tech: [@papaicode](https://www.youtube.com/@papaicode)
 
