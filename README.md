@@ -34,8 +34,6 @@ My goal is to write code that is not only functional, but also readable, maintai
 <h2>GitHub Trophies</h2>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NicolauAlfredo&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" /> </div>
 
-<h2>GitHub Analytics</h2>
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolauAlfredo&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolauAlfredo&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9ca3af" /> </div>
 
 <h2>Activity Graph</h2>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolauAlfredo&bg_color=000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" /> </div>
