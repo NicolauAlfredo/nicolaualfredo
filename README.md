@@ -31,9 +31,11 @@ My goal is to write code that is not only functional, but also readable, maintai
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,python,php,c,mysql,postgres,mongodb,sqlite,git,github,docker,linux,vscode&theme=dark" /> 
 </div>
 
-<h2>GitHub Trophies</h2>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NicolauAlfredo&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" /> </div>
+<h2>GitHub Activity Streak</h2>
 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaualfredo&theme=dark" />
+</p>
 
 <h2>Activity Graph</h2>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolauAlfredo&bg_color=000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" /> </div>
